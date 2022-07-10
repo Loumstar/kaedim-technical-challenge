@@ -2,3 +2,4 @@ ShapeNetRendering/
 NaturalImageNetTest/
 
 .DS_Store
+.vscode
